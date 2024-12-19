@@ -1,0 +1,11 @@
+1. Install virualenv
+    python3 -m pip install virtualenv
+
+2. Use venv to create a virtual environment
+        MAC - python3 -m venv venv
+
+3. We need to launch the virtualenv
+    MAC - source venv/bin/activate
+
+4. We need to install flask - this is the server library
+    MAC - python3 -m pip install flask
